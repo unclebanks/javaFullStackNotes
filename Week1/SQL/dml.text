@@ -1,0 +1,10 @@
+[] DATA MANIPULATION LANGUAGE
+    [] Used to perform CRUD (create, read, update, delete) operations on the actual data
+        [] INSERT
+            [] Inserts new row
+        [] UPDATE
+            [] Updates value
+        [] Delete
+            [] Deletes value
+        [] SELECT
+            [] Selects value

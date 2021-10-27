@@ -1,0 +1,11 @@
+[] CASTING
+    [] Used to convert one object to another object type
+            object
+                |
+            Person
+                |
+            Employee
+        [] EX: Person p = new Employee();
+                //convert p into an Employee
+                Employee emp = (Employee) p; //Must use explicit casting
+                Type casting can be used to be more specific or more vague in regards to the object.

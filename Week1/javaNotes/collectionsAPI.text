@@ -1,0 +1,10 @@
+[] COLLECTIONS API
+    [] SET OF COMMONLY USED DATA STRUCTURES
+        [] ITERABLE
+            [] Makes sure the collection can be iterated over (no idea what that means)
+        [] List
+            [] Ordered collection
+        [] SET
+            [] A collection that does not contain duplicates
+        [] Queue
+            [] Collection based on first in first out basis

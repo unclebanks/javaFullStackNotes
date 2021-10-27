@@ -1,0 +1,10 @@
+[] DATA DEFINED LANGUAGE
+    [] Used to define the data table form (schema or skeleton)
+        [] CREATE
+            [] Creates new object or table
+        [] ALTER
+            [] Modify existing object or table
+        [] DROP
+            [] Deletes object or table
+        [] TRUNCATE
+            [] Delete all data within table leaving only skeleton

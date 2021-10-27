@@ -1,0 +1,7 @@
+[] GARBAGE COLLECTION
+    [] Happens automatically (can not be invoked manually)
+        [] Can be requested through use of commands
+            [] System.gc()
+            [] Runtime.getRuntime().gc()
+            [] System.runFinalize()
+    [] Destroys things that no longer have references in the code to free memory
