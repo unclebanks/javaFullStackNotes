@@ -1,0 +1,11 @@
+# Strings
+    +- Immutable (can NOT be changed)
+    +- When modifying the string, the string is not changed but replaced.
+        + EX 
+            let myString = "Hello";
+            myString.concat(" there");
+            console.log(myString); // Prints "Hello"
+            myString = myString.concat(" there");
+            console.log(myString); // Prints "Hello there"
+
+        +- In order to properly modify string it must be redeclared as the edited version

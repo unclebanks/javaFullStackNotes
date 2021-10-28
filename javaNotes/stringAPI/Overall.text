@@ -1,0 +1,7 @@
+# String API
+
+    + Strings
+        +- Immutable, not edited just replaced
+    + StringPool
+        +- Place that Strings are stored
+        +- Processes the redeclaration of Strings to ensure no duplicates

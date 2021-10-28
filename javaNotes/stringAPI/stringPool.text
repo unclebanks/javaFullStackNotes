@@ -1,0 +1,13 @@
+# StringPool
+
+    +- Operates within the HEAP
+    +- Stores strings and declarations of said strings
+    +- Ensures that no duplicates are declared
+    +- If a duplicate declaration is attempted it will repoint to the existing string
+        + To circumvent this use the 'new' declaration
+            +- String a = "test";
+            +- String b = "test";
+            +- String c = new String('test');
+            console.log(a==b); // Prints true;
+            console.log(a==c); // Prints false;
+        + Using the new declaration forces the String Pool to create another object of that string within the heap

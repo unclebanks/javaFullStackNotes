@@ -1,0 +1,4 @@
+# Props
+    +- Short for Properties
+    +- Passed from Parent to Child
+        + Can NOT be changed by the child

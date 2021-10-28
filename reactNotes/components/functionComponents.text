@@ -1,0 +1,15 @@
+# Function Components
+
+    + Can be created in two ways
+        +- TRADITIONAL METHOD
+            +- function Hello(){
+                return <p>Hello World!</p>
+            }
+        + 
+        +- ARROW FUNCTION
+            +- const Hello = () => {
+                return <p>Hello World!</p>
+            }
+    + Uses PascalCase for component Names
+            +- EX: function HelloWorld() {}
+    + Able to deal with state thanks to React Hooks

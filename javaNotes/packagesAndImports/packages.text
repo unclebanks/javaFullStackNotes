@@ -1,0 +1,5 @@
+# Packages
+
+    +- Classes Ccn be accessed by 'importing' or by typing the 'fully qualified name'
+        + fully qualified name is the entire class name
+            +- EX com.revature.HelloWorld
