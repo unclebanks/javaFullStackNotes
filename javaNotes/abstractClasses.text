@@ -1,0 +1,5 @@
+# ABSTRACT CLASSES
+    * Similar to interface but retains the limitations of classes (such as one implementation (or extension))
+    * Also used to be more defined and rigid than interfaces (ex make an abstract class that has the common properties of interface so no need to implement them all)
+    * Interface cant have traditional METHODS
+    * Abstract classes can have traditional methods that can be inherited by the child classes

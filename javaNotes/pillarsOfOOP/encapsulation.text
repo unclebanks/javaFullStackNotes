@@ -1,0 +1,3 @@
+# Encapsulation
+    +- When an object removes control of its' state from outside actions
+        + EX: (private class) using getters, setters

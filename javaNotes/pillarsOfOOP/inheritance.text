@@ -1,0 +1,5 @@
+# Inheritance
+    +- One class getting the properties (not values) of another.
+        +- EX: *extends or *implements
+    +- Only one extension per class
+    +- as many implements as one wants
