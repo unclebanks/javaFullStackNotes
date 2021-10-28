@@ -1,0 +1,4 @@
+# while loop
+    +- Runs the provided function as long as the conditional evaluates to true
+        + EX let x = 0; while(x < 10) {x++};
+    +- do-while loops run the function first then does the 'do' part

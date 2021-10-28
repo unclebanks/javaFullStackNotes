@@ -1,0 +1,3 @@
+# if/else
+    +- Checks if the statement is true
+    +- if true the `if` statement runs, if not the else runs

@@ -1,0 +1,10 @@
+# switch case 
+    +- Switch statements take in a value and run the provided method that matches it
+        Ex switch(craig) {
+            case craig: functionA();
+            break;
+            case craig2: functionB();
+            break;
+        }
+    +- if break is not provided it will check each entry
+    +- default should be provided

@@ -1,0 +1,4 @@
+# for loop
+    +- Used to iterate over data structures
+    +- While iterating it will run the provided function everytime the conditional is met
+        + EX for(i = 0; i < 10; i++) { console.log('Looped once and adding a digit to prevent infinity loop')}

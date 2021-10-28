@@ -1,0 +1,4 @@
+# Java Memory
+    +- Divided into STACK and HEAP
+    +- Garbage Collector cleans stuff automatically
+    +- Memory is allocated depending on data type(s)

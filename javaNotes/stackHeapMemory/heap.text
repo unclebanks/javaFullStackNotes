@@ -1,0 +1,3 @@
++ HEAP
+    +- Central location that stores all objects
+    +- Old objects are deleted routinely

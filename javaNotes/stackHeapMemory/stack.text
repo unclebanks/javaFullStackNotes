@@ -1,0 +1,3 @@
++ STACK
+    +- Stores the method invocations and reference variables
+    +- Stored in Stack Frames
